@@ -7,7 +7,7 @@ const source = {
   id: EARTHQUAKES_SOURCE_ID,
   type: MAP_TYPES.TABLE,
   connection: 'carto_dw' /*use your connection name here*/,
-  data: `carto-demo-data.demo_tables.earthquakes_data` /*use your connection name here*/,
+  data: `carto-demo-data.demo_tables.spain_earthquakes` /*use your connection name here*/,
 };
 
 export default source;
