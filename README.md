@@ -4,6 +4,9 @@ Skeleton Template fo CARTO Cloud Native
 
 Welcome to CARTO for React! The best way to develop Location Intelligence Apps using CARTO Cloud Native platform + deck.gl. It will provide you a well designed structure following the best practices for modern frontend development and an integrated toolchain for testing, building and deploying your application.
 
+This template is based on the map we built live during the webinar **Developing Spatial Applications with CARTO for React v1.1** which you can watch on demand [here](https://go.carto.com/webinars/carto-react-developers). Powered by CARTO for React, connected to BigQuery as the backend  and developed in Typescript, this web map explores the earthquakes that have taken place during the last 10 years around Spain.
+
+
 To get further information about this template visit our [documentation](https://github.com/CartoDB/carto-react-template).
 
 ## Available Scripts
